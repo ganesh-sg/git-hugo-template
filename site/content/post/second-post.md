@@ -6,6 +6,4 @@ image: /img/phani-gift.png
 ---
 Second Post
 
-
-
 ![Preethi Voting Slip](/img/preethi.png "Preethi Voting Slip")
